@@ -71,7 +71,7 @@ The final schema is the result of all previous stages combined. It represents a 
 
 ##  Developed & Documented by
 
-## **YOSSEF HAYTHAM**
+## **Yossef Haytham**
 ### Data Analyst 
 
 [Portfolio](https://yossefhaytham.github.io/) • [LinkedIn](https://www.linkedin.com/in/yossefhaythammohammed)
