@@ -74,6 +74,6 @@ The final schema is the result of all previous stages combined. It represents a 
 ## **YOSSEF HAYTHAM**
 ### Data Analyst 
 
-[Portfolio](https://github.com/yossefhaytham) • [LinkedIn](www.linkedin.com/in/yossefhaythammohammed)
+[Portfolio](https://yossefhaytham.github.io/) • [LinkedIn](www.linkedin.com/in/yossefhaythammohammed)
 
 </div>
