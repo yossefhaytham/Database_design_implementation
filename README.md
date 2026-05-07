@@ -1,4 +1,4 @@
-Database Design & Implementation: From Requirements to Insights
+# Database Design & Implementation: From Requirements to Insights
 
 ## Project Overview
 This repository showcases a full-lifecycle database engineering project. It moves from raw business requirements to a finalized, queried relational database system using **Microsoft SQL Server**. The project demonstrates advanced relational modeling, solving structural conflicts, and extracting business intelligence through complex SQL queries.
