@@ -64,3 +64,16 @@ A database is only as good as the information you can extract from it. In the [q
 The final schema is the result of all previous stages combined. It represents a fully relational, normalized, and optimized database environment ready for a production-level application.
 
 ![Final Schema](./docs/schema.jpg)
+
+---
+
+<div align="center">
+
+##  Developed & Documented by
+
+## **YOSSEF HAYTHAM**
+### Data Analyst 
+
+[Portfolio](https://github.com/yossefhaytham) • [LinkedIn](www.linkedin.com/in/yossefhaythammohammed)
+
+</div>
